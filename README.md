@@ -41,6 +41,16 @@ Notes:
 - PROJECTS\ (project files)
 - PROJECTSLOGS\ (log files for each project)
 
+## Password Storage and Connection
+The project file keeps three password values: plain, encrypted, and hash.
+The plain password is kept for compatibility, but it is never printed in logs or UI.
+The program writes the encrypted and hash values automatically when a new project is saved.
+
+When connecting, the program tries the encrypted password first.
+If that fails, it falls back to the plain password.
+The hash is only valid if your server expects a hashed password; otherwise it is used
+only to verify that the stored values match and were not corrupted.
+
 ## Core Workflow (Typical use)
 1) Load Project file
 2) Check connection
