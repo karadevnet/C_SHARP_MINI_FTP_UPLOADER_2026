@@ -92,14 +92,22 @@ Notes:
 (You can add or remove images below as needed.)
 
 ![Main Window](img/main_window.jpg)
-![Add New Project](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/add_new_project.jpg)
-![Load Project](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/load_project.jpg)
-![View Project Data](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/view_project_data.jpg)
-![View Project Logs](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/view_project_logs.jpg)
-![Permissions Checked](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/permissios_checked_lines.jpg)
-![Permissions Selected](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/permissios_selected_line1.jpg)
-![Skipped Upload](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/skipped_upload.jpg)
-![Skipped Upload Lines](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/skipped_upload_lines.jpg)
+
+![Add New Project](img/add_new_project.jpg)
+
+![Load Project](img/load_project.jpg)
+
+![View Project Data](img/view_project_data.jpg)
+
+![View Project Logs](img/view_project_logs.jpg)
+
+![Permissions Checked](img/permissios_checked_lines.jpg)
+
+![Permissions Selected](img/permissios_selected_line1.jpg)
+
+![Skipped Upload](img/skipped_upload.jpg)
+
+![Skipped Upload Lines](img/skipped_upload_lines.jpg)
 
 ## Support
 If you need help, open the offline help site:
