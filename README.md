@@ -91,7 +91,7 @@ Notes:
 ## Screenshots (optional)
 (You can add or remove images below as needed.)
 
-![Main Window](/img/main_window.jpg)
+![Main Window](img/main_window.jpg)
 ![Add New Project](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/add_new_project.jpg)
 ![Load Project](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/load_project.jpg)
 ![View Project Data](bin/Release/PROGRAM_HELP_AND_HOW_TO/img/view_project_data.jpg)
