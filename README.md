@@ -1,4 +1,4 @@
-# C_SHARP_MINI_FTP_UPLOADER_2026
+﻿# C_SHARP_MINI_FTP_UPLOADER_2026
 
 ## Purpose (What this program does)
 C_SHARP_MINI_FTP_UPLOADER_2026 is a Windows desktop tool for managing FTP/SFTP file transfers.
@@ -99,6 +99,10 @@ only to verify that the stored values match and were not corrupted.
 - Logs include timestamps, action category, and per-file details.
 - Log history is kept in PROJECTSLOGS.
 
+## Progress Display
+- The progress bar shows activity, and the file counter at the bottom-right (label4) shows processed totals (example: UPLOAD 12/64).
+- The old dynamic progress text label is hidden to keep the UI clean.
+
 ## Screenshots (optional)
 (You can add or remove images below as needed.)
 
@@ -123,3 +127,4 @@ only to verify that the stored values match and were not corrupted.
 ## Support
 If you need help, open the offline help site:
 PROGRAM_HELP_AND_HOW_TO\index.html
+
