@@ -64,6 +64,7 @@ only to verify that the stored values match and were not corrupted.
 ### Project Management
 - **NEW PROJECT ADD**: Create a new project file with FTP/SFTP settings and paths.
 - **LOAD PROJECT**: Load a saved project file and populate the tree + rules.
+- **REFRESH LOADED PROJECT**: Re-read the project file and rebuild the tree, permissions, skip status, and extensions list.
 - **VIEW PROJECT DATA**: Show all project file data in a viewer form.
 - **OPEN PROJECT FOLDER**: Open the local project folder in Explorer.
 - **OPEN IN NOTEPAD++**: Open the project file in Notepad++.
