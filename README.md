@@ -82,6 +82,7 @@ only to verify that the stored values match and were not corrupted.
 - **UPLOAD TO FTP**: Upload checked nodes and apply permissions.
 - **UPLOAD BY EXTENSION**: If no nodes are checked, select an extension in the extensions tree and Upload will process all files with that extension across the project.
 - **DOWNLOAD FROM FTP**: Download all remote files to BACKUPDOWNLOAD (overwrite mode).
+- **BULK RENAME FILES**: Renames files inside a selected folder using a pattern and extension filter.
 
 ### Permissions & Skip Rules
 - **SET PERMISSIONS TO CHECKED**: Apply selected permission to checked nodes.
