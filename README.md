@@ -68,6 +68,7 @@ only to verify that the stored values match and were not corrupted.
 - **VIEW PROJECT DATA**: Show all project file data in a viewer form.
 - **OPEN PROJECT FOLDER**: Open the local project folder in Explorer.
 - **OPEN IN NOTEPAD++**: Open the project file in Notepad++.
+- **OPEN LOGS FILE**: Open the current project log file in Notepad++ (or default editor if Notepad++ is not installed).
 
 ### Connection
 - **CONNECT / DISCONNECT**: Establish or close FTP/SFTP session.
